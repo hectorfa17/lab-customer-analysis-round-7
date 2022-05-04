@@ -6,7 +6,7 @@ For this lab, we still keep using the `marketing_customer_analysis.csv` file tha
 
 It's time to put it all together. Remember the previous rounds and follow the steps as shown in previous lectures.
 
-01 - Problem (case study)
+01 - Problem (case study)/n
 Data Description.
 Goal.
 02 - Getting Data
